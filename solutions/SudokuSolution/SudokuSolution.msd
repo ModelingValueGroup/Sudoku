@@ -5,6 +5,11 @@
       <sourceRoot location="models" />
     </modelRoot>
   </models>
+  <facets>
+    <facet type="java">
+      <classes generated="true" path="${module}/classes_gen" />
+    </facet>
+  </facets>
   <sourcePath />
   <dependencies>
     <dependency reexport="false">08cbba68-af7c-468f-8258-42693b06f92d(Sudoku)</dependency>
