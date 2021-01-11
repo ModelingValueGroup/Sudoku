@@ -63,11 +63,10 @@
         <property role="2Gdwc3" value="4" />
       </node>
       <node concept="1UyeO1" id="5gH75Xq$J6s" role="1UyeO3">
-        <property role="1V3_bx" value="[3]" />
+        <property role="1V3_bx" value="[3, 6]" />
         <property role="138hE9" value="false" />
         <property role="3SQD6q" value="true" />
         <property role="2xfDog" value="false" />
-        <property role="2Gdwc3" value="3" />
       </node>
       <node concept="1UyeO1" id="5gH75Xq$J6u" role="1UyeO3">
         <property role="1V3_bx" value="[2]" />
@@ -84,10 +83,10 @@
         <property role="2Gdwc3" value="8" />
       </node>
       <node concept="1UyeO1" id="5gH75Xq$J6y" role="1UyeO3">
-        <property role="1V3_bx" value="[6]" />
+        <property role="1V3_bx" value="[3, 6]" />
         <property role="138hE9" value="false" />
         <property role="3SQD6q" value="false" />
-        <property role="2xfDog" value="true" />
+        <property role="2xfDog" value="false" />
       </node>
       <node concept="1UyeO1" id="5gH75Xq$J6z" role="1UyeO3">
         <property role="1V3_bx" value="[5]" />
@@ -98,10 +97,10 @@
       </node>
       <node concept="1UyeO2" id="5gH75Xq$J6l" role="1UyeO9">
         <node concept="1UyeO1" id="5gH75Xq$J6R" role="1UyeO3">
-          <property role="1V3_bx" value="[3]" />
+          <property role="1V3_bx" value="[3, 6]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="false" />
-          <property role="2xfDog" value="true" />
+          <property role="2xfDog" value="false" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J6S" role="1UyeO3">
           <property role="1V3_bx" value="[4]" />
@@ -125,11 +124,10 @@
           <property role="2Gdwc3" value="7" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J6V" role="1UyeO3">
-          <property role="1V3_bx" value="[6]" />
+          <property role="1V3_bx" value="[3, 6]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="true" />
           <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="6" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J6W" role="1UyeO3">
           <property role="1V3_bx" value="[5]" />
@@ -161,10 +159,10 @@
       </node>
       <node concept="1UyeO2" id="5gH75Xq$J6n" role="1UyeO9">
         <node concept="1UyeO1" id="5gH75Xq$J70" role="1UyeO3">
-          <property role="1V3_bx" value="[6]" />
+          <property role="1V3_bx" value="[3, 6]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="false" />
-          <property role="2xfDog" value="true" />
+          <property role="2xfDog" value="false" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J71" role="1UyeO3">
           <property role="1V3_bx" value="[5]" />
@@ -208,10 +206,10 @@
           <property role="2Gdwc3" value="4" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J77" role="1UyeO3">
-          <property role="1V3_bx" value="[3]" />
+          <property role="1V3_bx" value="[3, 6]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="false" />
-          <property role="2xfDog" value="true" />
+          <property role="2xfDog" value="false" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J78" role="1UyeO3">
           <property role="1V3_bx" value="[7]" />
@@ -233,8 +231,7 @@
           <property role="1V3_bx" value="[7]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="true" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="7" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J7A" role="1UyeO3">
           <property role="1V3_bx" value="[5]" />
@@ -273,8 +270,7 @@
           <property role="1V3_bx" value="[8]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="true" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="8" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J7G" role="1UyeO3">
           <property role="1V3_bx" value="[1]" />
@@ -296,15 +292,13 @@
           <property role="1V3_bx" value="[6]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="true" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="6" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J7t" role="1UyeO3">
           <property role="1V3_bx" value="[3]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="true" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="3" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J7u" role="1UyeO3">
           <property role="1V3_bx" value="[2]" />
@@ -338,8 +332,7 @@
           <property role="1V3_bx" value="[9]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="true" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="9" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J7z" role="1UyeO3">
           <property role="1V3_bx" value="[4]" />
@@ -361,8 +354,7 @@
           <property role="1V3_bx" value="[9]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="true" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="9" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J7k" role="1UyeO3">
           <property role="1V3_bx" value="[4]" />
@@ -375,8 +367,7 @@
           <property role="1V3_bx" value="[5]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="false" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="5" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J7m" role="1UyeO3">
           <property role="1V3_bx" value="[1]" />
@@ -433,8 +424,7 @@
           <property role="1V3_bx" value="[7]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="false" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="7" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J6C" role="1UyeO3">
           <property role="1V3_bx" value="[9]" />
@@ -491,8 +481,7 @@
           <property role="1V3_bx" value="[3]" />
           <property role="138hE9" value="false" />
           <property role="3SQD6q" value="false" />
-          <property role="2xfDog" value="false" />
-          <property role="2Gdwc3" value="3" />
+          <property role="2xfDog" value="true" />
         </node>
         <node concept="1UyeO1" id="5gH75Xq$J6K" role="1UyeO3">
           <property role="1V3_bx" value="[1]" />
