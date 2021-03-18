@@ -164,6 +164,7 @@
       </concept>
     </language>
     <language id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel">
+      <concept id="1179168000618" name="jetbrains.mps.lang.smodel.structure.Node_GetIndexInParentOperation" flags="nn" index="2bSWHS" />
       <concept id="1177026924588" name="jetbrains.mps.lang.smodel.structure.RefConcept_Reference" flags="nn" index="chp4Y">
         <reference id="1177026940964" name="conceptDeclaration" index="cht4Q" />
       </concept>
@@ -662,6 +663,16 @@
   </node>
   <node concept="311c5q" id="4jp8R7CVuX_">
     <ref role="311c5K" to="hafc:21DqoLqSoid" resolve="Cell" />
+    <node concept="1FPxxo" id="1rXbjjxmK9F" role="1FPzNG" />
+    <node concept="32q3_s" id="1rXbjjxmM3y" role="1FPzNG">
+      <property role="TrG5h" value="id" />
+      <property role="3CZYri" value="true" />
+      <node concept="10Oyi0" id="1rXbjjxmNdc" role="1tU5fm" />
+      <node concept="2OqwBi" id="1rXbjjxn6HR" role="33vP2m">
+        <node concept="2Wb9Zs" id="1rXbjjxn6lb" role="2Oq$k0" />
+        <node concept="2bSWHS" id="1rXbjjxn7tM" role="2OqNvi" />
+      </node>
+    </node>
     <node concept="1FPxxo" id="3cfqRNbwbb5" role="1FPzNG" />
     <node concept="32q3_s" id="1qdg$930rGz" role="1FPzNG">
       <property role="TrG5h" value="sudoku" />
