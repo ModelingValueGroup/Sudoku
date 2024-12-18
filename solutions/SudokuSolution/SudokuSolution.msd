@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="SudokuSolution" uuid="519c51e3-6d58-463f-b083-7360693a3e14" moduleVersion="0" compileInMPS="true">
+<solution name="SudokuSolution" uuid="519c51e3-6d58-463f-b083-7360693a3e14" moduleVersion="0">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
     </modelRoot>
   </models>
   <facets>
-    <facet type="java">
+    <facet type="java" compile="mps" classes="mps" ext="no">
       <classes generated="true" path="${module}/classes_gen" />
     </facet>
   </facets>
-  <sourcePath />
   <dependencies>
     <dependency reexport="false">08cbba68-af7c-468f-8258-42693b06f92d(Sudoku)</dependency>
   </dependencies>
